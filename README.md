@@ -1,3 +1,3 @@
 # hello-world
 
-first git stuff lol
+first git branch and commit 
